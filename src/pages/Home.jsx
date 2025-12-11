@@ -12,12 +12,14 @@ const Home = () => {
               <p className="skills-text">
                 JavaScript, TypeScript, ReactJS, Redux, HTML, CSS, NPM, NVM,
                 NextJS, React Query, Rest, BootStrap, MaterialUI, TailwindCSS,
-                FireBase, Vite.
+                FireBase, Vite, RestAPI.
               </p>
             </li>
             <li className="content-list__item">
               <h2 className="title-2">Backend skills</h2>
-              <p className="skills-text">ExpressJS, SQL.</p>
+              <p className="skills-text">
+                ExpressJS, SQL, PostgreSQL, Nest, Docker, MongoDB.
+              </p>
             </li>
           </ul>
         </div>
