@@ -30,7 +30,7 @@ const Footer = () => {
               </a>
             </li>
             <li className="social__item">
-              <a href="https://github.com/TryCatchB" target="_blanck">
+              <a href="https://github.com/PenitentOne-2005" target="_blanck">
                 <img src={gitHub} alt="Link" />
               </a>
             </li>
